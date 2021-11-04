@@ -32,8 +32,8 @@
 <img src='https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white'>
 </details>
 
-<summary>Design</summary>
 <details>
+<summary>Design</summary>
 <img src='https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white'>
 <img src='https://img.shields.io/badge/Adobe%20Photoshop-0d1117?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white'>
 </details>
